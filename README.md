@@ -1,4 +1,4 @@
-# tm
+# Toy Processor
 
 ## Project setup
 ```
